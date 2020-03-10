@@ -1,0 +1,15 @@
+.env
+.idea
+.vscode
+.myvenv/
+venv
+.venv/
+.pesquisaescolar
+/*.sqlite3
+*pyc
+__pycache__
+staticfiles
+.ipynb_checkpoints/
+media
+.DS_Store
+.DS_Store?
